@@ -1,0 +1,13 @@
+class test{
+	public int i;
+	
+	public int inc(){
+
+		return this.i;
+	}
+
+	public test(int i){
+
+		this.i=i;
+	}
+}
